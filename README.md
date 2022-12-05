@@ -18,6 +18,7 @@ dùng hai lệnh để commit thay đổi lên git repo
 ```
 git add'
 git commit -m "thông điệp commit"
+```
 # phần 4 _push
 
 Push localrepo lên Remote repo trên Github
